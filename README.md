@@ -188,9 +188,9 @@ This project is released under the **GPL V3 License**.
 # 👨‍💻 Author
 
 **Tapas Dutta**\
-GDS ABPM -- India Post
-Mobile - +918016804589
-Created to help fellow India Post employees and aspirants memorize
+GDS ABPM -- India Post\
+Mobile - +918016804589\
+I created this to help fellow India Post employees and aspirants memorize
 departmental forms efficiently.
 
 ------------------------------------------------------------------------
