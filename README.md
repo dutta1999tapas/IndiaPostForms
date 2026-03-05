@@ -119,16 +119,6 @@ Useful for preparation of:
 
 ------------------------------------------------------------------------
 
-# 🛠 Technologies Used
-
-  Technology     Purpose
-  -------------- -----------------------
-  React          Structure,Logic & interactivity
-  Vite           Build
-  TailwindCSS    UI styling
-  Lucide Icons   Modern icon set
-
-------------------------------------------------------------------------
 
 # 📦 Run Locally
 
