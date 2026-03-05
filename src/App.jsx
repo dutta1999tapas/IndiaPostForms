@@ -159,7 +159,7 @@ export default function App() {
                 <h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-slate-800 to-slate-600">
                   India Post Forms
                 </h1>
-                <p className="text-sm text-slate-500 font-medium">Memorization Master</p>
+                <p className="text-sm text-slate-500 font-medium">Memorization Master by TAPAS DUTTA</p>
               </div>
             </div>
 
